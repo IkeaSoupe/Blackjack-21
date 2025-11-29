@@ -1,0 +1,14 @@
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\BlackJack 21\bin\Debug\net8.0\BlackJack 21.exe
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\BlackJack 21\bin\Debug\net8.0\BlackJack 21.deps.json
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\BlackJack 21\bin\Debug\net8.0\BlackJack 21.runtimeconfig.json
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\BlackJack 21\bin\Debug\net8.0\BlackJack 21.dll
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\BlackJack 21\bin\Debug\net8.0\BlackJack 21.pdb
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\BlackJack 21\obj\Debug\net8.0\BlackJack 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\BlackJack 21\obj\Debug\net8.0\BlackJack 21.AssemblyInfoInputs.cache
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\BlackJack 21\obj\Debug\net8.0\BlackJack 21.AssemblyInfo.cs
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\BlackJack 21\obj\Debug\net8.0\BlackJack 21.csproj.CoreCompileInputs.cache
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\BlackJack 21\obj\Debug\net8.0\BlackJack 21.dll
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\BlackJack 21\obj\Debug\net8.0\refint\BlackJack 21.dll
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\BlackJack 21\obj\Debug\net8.0\BlackJack 21.pdb
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\BlackJack 21\obj\Debug\net8.0\BlackJack 21.genruntimeconfig.cache
+C:\Users\Gulde\Desktop\Ontwikkeling\Privé\BlackJack 21\obj\Debug\net8.0\ref\BlackJack 21.dll
